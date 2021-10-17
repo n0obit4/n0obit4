@@ -29,8 +29,7 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="margin-right:20px; display:inline;" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="margin-right:20px" alt="Python Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="margin-right:20px; display:inline;" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" style="margin-right:20px" alt="Python Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="margin-right:20px" alt="C Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" style="margin-right:20px" alt="Bash Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" style="margin-right:20px" alt="Git Logo" width="50" height="50"/>
