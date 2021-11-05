@@ -6,6 +6,8 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter%20profile&style=social&url=https://twitter.com/n0obit4)](https://twitter.com/n0obit4)
 [![Medium URL](https://img.shields.io/twitter/url?label=Medium&logo=medium&style=social&url=https://n0obit4.medium.com)](https://n0obit4.medium.com)
+[![TryHackMe URL](https://img.shields.io/twitter/url?label=TryHackMe&logo=tryhackme&logoColor=red&style=social&url=https%3A%2F%2Ftryhackme.com%2Fp%2FN0obit4)](https://tryhackme.com/p/N0obit4)
+![HTB URL](https://img.shields.io/twitter/url?label=Hack%20The%20box&logo=hackthebox&logoColor=green&style=social&url=https%3A%2F%2Fapp.hackthebox.com%2F)
 [![gists URL](https://img.shields.io/twitter/url?label=gists&logo=github&style=social&url=https%3A%2F%2Fgist.github.com%2Fn0obit4)](https://gist.github.com/n0obit4)
 [![GitHub User's stars](https://img.shields.io/github/stars/n0obit4?style=social)](https://github.com/n0obit4?tab=stars)
 [![GitHub followers](https://img.shields.io/github/followers/n0obit4?label=Github%20followers&style=social)](https://github.com/n0obit4?tab=followers)
