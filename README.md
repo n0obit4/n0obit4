@@ -28,7 +28,7 @@
 ## &#x1f4c8; My GitHub Stats
 <br>
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0obit4&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/n0obit4) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0obit4&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/n0obit4) [![py-fdm repo](https://github-readme-stats.vercel.app/api/pin/?username=beastsec&repo=py-fdm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/beastsec/py-fdm) [![Reverse shell maker repo](https://github-readme-stats.vercel.app/api/pin/?username=n0obit4&repo=rvs-shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/n0obit4/rvs-shell)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0obit4&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/n0obit4) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0obit4&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/n0obit4)
 
 ---
 
