@@ -16,12 +16,11 @@
 
 ## &#x1F62C; Some curious things about me.
 
-- 🔭 I’m currently working on some projects xd
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on some projects (All new repo are private)
+- 🥀 I HATE Javascript
 - 🤔 I’m looking for help with deep C programming
 - 💬 Ask me about anything
 - 📫 How to reach me: n0obit4@protonmail.com
-- ⚡ Fun fact: On my twitter xd
 
 ---
 
